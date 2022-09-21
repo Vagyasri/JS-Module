@@ -16,7 +16,7 @@ In this project, you will build a basic website that allows users to add/remove 
 ### General requirements
 
 - Make sure that there are [no linter errors](https://github.com/microverseinc/linters-config).
-- Make sure that you used correct [Github Flow](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/github_flow.md).
+- Make sure that you used correct [Github Flow](https://github.com/Vagyasri/JS-Module/blob/dev/github_flow.md).
 - Make sure that you documented your work [in a professional way](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/professional_repo_rules.md).
 
 ### JavaScript requirements
