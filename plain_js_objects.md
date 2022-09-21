@@ -50,4 +50,4 @@ In this project, you will build a basic website that allows users to add/remove 
 
 ### Need a big picture?
 
-Remind me about the [big picture of this project.]([https://github.com/microverseinc/curriculum-javascript/blob/main/books/sneak_peek.md](https://github.com/Vagyasri/JS-Module/blob/dev/sneak_peek.md))
+Remind me about the [big picture of this project.](https://github.com/Vagyasri/JS-Module/blob/dev/sneak_peek.md)
