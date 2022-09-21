@@ -21,7 +21,7 @@ In this project, you will build a basic website that allows users to add/remove 
 
 ### JavaScript requirements
 
-- Follow our list of [best practices for JavaScript](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md).
+- Follow our list of [best practices for JavaScript](https://github.com/Vagyasri/JS-Module/blob/dev/javascript_best_practices.md).
 
 ### Project requirements
 
