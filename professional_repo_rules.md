@@ -13,13 +13,13 @@ Following these five rules is a simple way to make your repo look professional:
 1. Respect the rules of the code review flow that your team follows. Use descriptive names for your branches (e.g., refactor-authentication, user-content-cache-key, make-retina-avatars) and make sure that your 'feature branch' is up-to-date with the 'main branch' in your repository.
 
 2. Write a meaningful title for your pull request and always add a short summary of changes introduced in the pull request.
-    ![Pull Request Description](../images/pull_request_desc.gif)
+    ![Pull Request Description](./images/pull_request_desc.gif)
 
 3. Use descriptive commit messages - each commit should be small enough to describe it in one sentence. The commit message should be written in the **imperative tense and capitalized**. [Read more about how to write descriptive commit messages](https://www.freecodecamp.org/news/level-you-up-to-awesome-commit-messages-a85558cb90e8).
      - Here are some examples of descriptive commits:
-         ![Pull Request Description](../images/descriptive_commits_example.png)
+         ![Pull Request Description](./images/descriptive_commits_example.png)
      - Here are some commits that are not descriptive:
-         ![Pull Request Description](../images/not_descriptive_commits.png)
+         ![Pull Request Description](./images/not_descriptive_commits.png)
   
 4. Do not commit files that are not related to the project. Instead, add them to a [.gitignore file](https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/). **A common mistake is to commit entire `node_modules` directory which makes your pull request unreadable.**
 
