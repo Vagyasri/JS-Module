@@ -1,51 +1,38 @@
-# Basic JavaScript syntax recap
+# The DOM and events
 
 ## Learning objectives
 
-- Use basic JavaScript syntax.
+- Use JavaScript to manipulate DOM elements.
+- Use JavaScript events.
+- Show a basic understanding of how the DOM works.
 
-### Estimated time: 1h
+### Estimated time: 1.5h
 
 ## Description
 
-You already know JavaScript as you proved in the Admissions Trials. But it is worth a recap on the syntax of the language, mostly about how to manipulate data structures (arrays and objects). We will also look at JavaScript best practices.
+As you may know, we can use JavaScript to make changes in a webpage. When JavaScript is used as a client-side programming language it is executed in the user's browser. The interface (API) to access the HTML elements from JavaScript is called the DOM (Document Object Model). Using the DOM you can access the HTML elements of your website and manipulate them.
 
-### Why is refreshing your JavaScript knowledge important?
+Also, the DOM allows you to be aware of how the user is interacting with your website, and allows you to execute some actions when the user "triggers an event." For example, when the user clicks a button you can execute JavaScript code to show a success message.
 
-You will be using a lot of JavaScript in the next several lessons and projects, so it is important that you refresh your basic JavaScript knowledge in order to write JavaScript that follows the best practices.
+### Why is the DOM important?
 
-### Why are JavaScript best practices important?
-
-If you follow best practices, working with your code will be easier - for you and for other developers.
+As a web developer, it is important for you to be able to create interactive websites that are not just plain content. You should be able to use JavaScript to make changes in the page based on user interactions with the content.
 
 ### Learn more
 
-Learn about the [JavaScript best practices](https://github.com/microverseinc/curriculum-html-css/blob/main/articles/javascript_best_practices.md) that you will need to adhere to in all of your Microverse projects.
+Read the following tutorials to learn the basics of the DOM manipulation (1h):
+- [Introduction to the DOM](https://javascripttutorial.net/javascript-dom/document-object-model-in-javascript/).
+- [Locate DOM elements and check properties](https://javascripttutorial.net/javascript-dom/javascript-queryselector/).
+- [Create new DOM elements](https://javascripttutorial.net/javascript-dom/javascript-createelement/).
+- [Change the DOM elements style manipulating their CSS classes](https://javascripttutorial.net/javascript-dom/javascript-classlist/).
 
-Refresh your knowledge about JavaScript arrays with these interactive tutorials (spend 5 minutes on each of them):
-
-- [Use an array to store a collection of data](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)
-
-- [Access an array's contents using bracket notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
-
-- [Add items to an array with push() and unshift()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-items-to-an-array-with-push-and-unshift)
-
-- [Check for the presence of an element with indexOf()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/check-for-the-presence-of-an-element-with-indexof)
-
-- [Iterate through all an array's items using for loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-all-an-arrays-items-using-for-loops)
-
-Refresh your knowledge about JavaScript objects with these interactive tutorials (spend 5 minutes on each of them):
-
-- [Add key-value pairs to JavaScript objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
-
-- [Modify an object nested within an object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
-
-- [Modify an array stored in an object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
+Finally, read this tutorial about how to make changes on the page based on user interactions (0.5h):
+- [Introduction to DOM events](https://www.javascripttutorial.net/javascript-dom/javascript-events/).
 
 ## Additional materials
 
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
-- Complete the rest of [the challenges about basic data structures in JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/) from FreeCodeCamp. 
+- Complete the rest of the [JavaScript DOM tutorials](https://www.javascripttutorial.net/javascript-dom/) from JavaScript Tutorial. 
 
 ------
 
